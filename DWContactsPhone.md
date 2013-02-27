@@ -4,3 +4,4 @@
 | 2013-02-24 17:35 | **itcareerwork** voted for 5 translations in the **DW Contacts & Phone** project
 | 2013-02-27 12:01 | **itcareerwork** voted "+" for the translation "дублировать контакты" in the **DW Contacts & Phone** project
 | 2013-02-27 21:09 | **itcareerwork** deleted 11 translations from the **DW Contacts & Phone** project
+| 2013-02-27 22:21 | **itcareerwork** suggested 78 translations in the **DW Contacts & Phone** project
