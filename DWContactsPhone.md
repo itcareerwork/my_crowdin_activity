@@ -8,3 +8,4 @@
 | 2013-02-28 19:30 | **itcareerwork** deleted the translation "Разрешить запускать фоновые службы." in the **DW Contacts & Phone** project
 | 2013-02-28 20:45 | **itcareerwork** voted for 4 translations in the **DW Contacts & Phone** project
 | 2013-02-28 20:47 | **itcareerwork** suggested 10 translations in the **DW Contacts & Phone** project
+| 2013-03-09 19:54 | **itcareerwork** deleted 3 translations from the **DW Contacts & Phone** project
