@@ -11,3 +11,4 @@
 | 2013-03-09 19:54 | **itcareerwork** deleted 3 translations from the **DW Contacts & Phone** project
 | 2013-03-09 20:32 | **itcareerwork** voted for 4 translations in the **DW Contacts & Phone** project
 | 2013-03-09 21:46 | **itcareerwork** suggested 58 translations in the **DW Contacts & Phone** project
+| 2013-03-10 10:34 | **itcareerwork** voted "+" for the translation "Скрыть фильтр журнала звонков" in the **DW Contacts & Phone** project
