@@ -24,3 +24,4 @@
 | 2013-03-22 18:13 | **itcareerwork** voted for 2 translations in the **DW Contacts & Phone** project
 | 2013-03-22 18:30 | **itcareerwork** deleted 2 translations from the **DW Contacts & Phone** project
 | 2013-03-22 18:45 | **itcareerwork** suggested 7 translations in the **DW Contacts & Phone** project
+| 2013-03-23 05:51 | **itcareerwork** voted "-" for the translation "дублировать контакты" in the **DW Contacts & Phone** project
