@@ -29,3 +29,4 @@
 | 2013-03-23 20:31 | **itcareerwork** suggested 88 translations in the **DW Contacts & Phone** project
 | 2013-03-24 09:10 | **itcareerwork** voted "-" for the translation "Добавить ярлык на домашний экран" in the **DW Contacts & Phone** project
 | 2013-03-24 18:27 | **itcareerwork** deleted 13 translations from the **DW Contacts & Phone** project
+| 2013-03-24 18:31 | **itcareerwork** suggested 19 translations in the **DW Contacts & Phone** project
