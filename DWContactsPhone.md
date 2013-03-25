@@ -31,3 +31,4 @@
 | 2013-03-24 18:27 | **itcareerwork** deleted 13 translations from the **DW Contacts & Phone** project
 | 2013-03-24 18:31 | **itcareerwork** suggested 19 translations in the **DW Contacts & Phone** project
 | 2013-03-25 19:03 | **itcareerwork** deleted 14 translations from the **DW Contacts & Phone** project
+| 2013-03-25 19:17 | **itcareerwork** voted for 3 translations in the **DW Contacts & Phone** project
