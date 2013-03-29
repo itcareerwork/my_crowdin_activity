@@ -36,3 +36,4 @@
 | 2013-03-28 15:39 | **itcareerwork** deleted the translation "Вызов номера по умолч" in the **DW Contacts & Phone** project
 | 2013-03-28 15:39 | **itcareerwork** suggested 10 translations in the **DW Contacts & Phone** project
 | 2013-03-29 17:35 | **itcareerwork** approved 13 translations in the **DW Contacts & Phone** project
+| 2013-03-29 17:36 | **itcareerwork** disapproved 2 translations in the **DW Contacts & Phone** project
