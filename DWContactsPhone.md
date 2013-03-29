@@ -38,3 +38,4 @@
 | 2013-03-29 17:35 | **itcareerwork** approved 13 translations in the **DW Contacts & Phone** project
 | 2013-03-29 17:36 | **itcareerwork** disapproved 2 translations in the **DW Contacts & Phone** project
 | 2013-03-29 18:51 | **itcareerwork** suggested 8 translations in the **DW Contacts & Phone** project
+| 2013-03-29 18:51 | **itcareerwork** deleted 6 translations from the **DW Contacts & Phone** project
