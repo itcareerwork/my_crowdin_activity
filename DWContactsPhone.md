@@ -41,3 +41,4 @@
 | 2013-03-29 18:51 | **itcareerwork** deleted 6 translations from the **DW Contacts & Phone** project
 | 2013-03-30 14:31 | **itcareerwork** approved the translation "Вы действительно хотите очистить журнал вызовов?" in the **DW Contacts & Phone** project
 | 2013-03-30 14:31 | **itcareerwork** deleted the translation ""Журнал вызовов будет очищен."" in the **DW Contacts & Phone** project
+| 2013-03-30 15:31 | **itcareerwork** suggested 8 translations in the **DW Contacts & Phone** project
