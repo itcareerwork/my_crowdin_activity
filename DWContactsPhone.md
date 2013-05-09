@@ -45,3 +45,4 @@
 | 2013-04-24 11:40 | **itcareerwork** suggested 10 translations in the **DW Contacts & Phone** project
 | 2013-05-08 20:00 | **itcareerwork** suggested 3 translations in the **DW Contacts & Phone** project
 | 2013-05-09 05:26 | **itcareerwork** deleted the translation "Когда в портретном режиме" in the **DW Contacts & Phone** project
+| 2013-05-09 06:52 | **itcareerwork** suggested 6 translations in the **DW Contacts & Phone** project
