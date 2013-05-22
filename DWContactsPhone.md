@@ -48,3 +48,4 @@
 | 2013-05-09 06:52 | **itcareerwork** suggested 6 translations in the **DW Contacts & Phone** project
 | 2013-05-22 06:02 | **itcareerwork** approved the translation "Фильтрация: Гр.: %1$s Орг.: %2$s Должн: %3$s" in the **DW Contacts & Phone** project
 | 2013-05-22 06:04 | **itcareerwork** deleted 2 translations from the **DW Contacts & Phone** project
+| 2013-05-22 06:05 | **itcareerwork** suggested 6 translations in the **DW Contacts & Phone** project
