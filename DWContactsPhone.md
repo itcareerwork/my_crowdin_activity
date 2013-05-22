@@ -46,3 +46,4 @@
 | 2013-05-08 20:00 | **itcareerwork** suggested 3 translations in the **DW Contacts & Phone** project
 | 2013-05-09 05:26 | **itcareerwork** deleted the translation "Когда в портретном режиме" in the **DW Contacts & Phone** project
 | 2013-05-09 06:52 | **itcareerwork** suggested 6 translations in the **DW Contacts & Phone** project
+| 2013-05-22 06:02 | **itcareerwork** approved the translation "Фильтрация: Гр.: %1$s Орг.: %2$s Должн: %3$s" in the **DW Contacts & Phone** project
