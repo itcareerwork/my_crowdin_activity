@@ -50,3 +50,4 @@
 | 2013-05-22 06:04 | **itcareerwork** deleted 2 translations from the **DW Contacts & Phone** project
 | 2013-05-22 06:05 | **itcareerwork** suggested 6 translations in the **DW Contacts & Phone** project
 | 2013-06-15 14:55 | **itcareerwork** suggested 5 translations in the **DW Contacts & Phone** project
+| 2013-06-25 14:41 | **itcareerwork** suggested 19 translations in the **DW Contacts & Phone** project
