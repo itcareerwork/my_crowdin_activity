@@ -54,3 +54,4 @@
 | 2013-06-25 14:41 | **itcareerwork** deleted 2 translations from the **DW Contacts & Phone** project
 | 2013-06-29 14:54 | **itcareerwork** deleted the translation "Цвет "Пропущенные звонки"" in the **DW Contacts & Phone** project
 | 2013-06-29 14:55 | **itcareerwork** suggested 2 translations in the **DW Contacts & Phone** project
+| 2013-08-24 12:25 | **itcareerwork** deleted 5 translations from the **DW Contacts & Phone** project
