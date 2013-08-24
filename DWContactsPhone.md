@@ -56,3 +56,4 @@
 | 2013-06-29 14:55 | **itcareerwork** suggested 2 translations in the **DW Contacts & Phone** project
 | 2013-08-24 12:25 | **itcareerwork** deleted 5 translations from the **DW Contacts & Phone** project
 | 2013-08-24 12:25 | **itcareerwork** approved the translation "Длина названия телефона" in the **DW Contacts & Phone** project
+| 2013-08-24 12:59 | **itcareerwork** suggested 14 translations in the **DW Contacts & Phone** project
