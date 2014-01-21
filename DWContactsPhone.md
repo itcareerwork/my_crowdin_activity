@@ -61,3 +61,4 @@
 | 2013-09-26 13:11 | **itcareerwork** deleted 2 translations from the **DW Contacts & Phone** project
 | 2013-09-26 13:16 | **itcareerwork** suggested 10 translations in the **DW Contacts & Phone** project
 | 2013-11-18 05:33 | **itcareerwork** suggested 8 translations in the **DW Contacts & Phone** project
+| 2014-01-21 12:50 | **itcareerwork** suggested 3 translations in the **DW Contacts & Phone** project
