@@ -68,3 +68,4 @@
 | 2014-04-01 07:13 | **itcareerwork** suggested 14 translations in the **DW Contacts & Phone** project
 | 2014-04-06 10:06 | **itcareerwork** suggested 2 translations in the **DW Contacts & Phone** project
 | 2014-04-19 08:59 | **itcareerwork** suggested 6 translations in the **DW Contacts & Phone** project
+| 2014-04-26 08:27 | **itcareerwork** suggested the translation "Скрыть фотографии контакта" in the **DW Contacts & Phone** project
