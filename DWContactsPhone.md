@@ -71,3 +71,4 @@
 | 2014-04-26 08:27 | **itcareerwork** suggested the translation "Скрыть фотографии контакта" in the **DW Contacts & Phone** project
 | 2014-05-30 14:25 | **itcareerwork** suggested 11 translations in the **DW Contacts & Phone** project
 | 2014-06-15 08:06 | **itcareerwork** canceled 498 translations made by texder in the **DW Contacts & Phone** project
+| 2014-06-15 10:00 | **itcareerwork** uploaded 918 translations to the **DW Contacts & Phone** project
