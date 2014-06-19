@@ -75,3 +75,4 @@
 | 2014-06-15 10:30 | **itcareerwork** approved 27 translations in the **DW Contacts & Phone** project
 | 2014-06-15 10:57 | **itcareerwork** suggested 42 translations in the **DW Contacts & Phone** project
 | 2014-06-18 13:05 | **itcareerwork** suggested the translation "Запрос отправлен" in the **DW Contacts & Phone** project
+| 2014-06-20 01:58 | **itcareerwork** suggested the translation "DW Contacts widget" in the **DW Contacts & Phone** project
