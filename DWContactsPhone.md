@@ -78,3 +78,4 @@
 | 2014-06-20 01:58 | **itcareerwork** suggested the translation "DW Contacts widget" in the **DW Contacts & Phone** project
 | 2014-07-04 11:41 | **itcareerwork** suggested 36 translations in the **DW Contacts & Phone** project
 | 2014-07-25 15:38 | **itcareerwork** suggested 11 translations in the **DW Contacts & Phone** project
+| 2014-09-21 07:07 | **itcareerwork** suggested 10 translations in the **DW Contacts & Phone** project
