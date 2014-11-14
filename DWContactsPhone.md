@@ -80,3 +80,4 @@
 | 2014-07-25 15:38 | **itcareerwork** suggested 11 translations in the **DW Contacts & Phone** project
 | 2014-09-21 07:07 | **itcareerwork** suggested 10 translations in the **DW Contacts & Phone** project
 | 2014-10-10 09:36 | **itcareerwork** suggested 2 translations in the **DW Contacts & Phone** project
+| 2014-11-14 12:42 | **itcareerwork** suggested 4 translations in the **DW Contacts & Phone** project
