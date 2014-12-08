@@ -82,3 +82,4 @@
 | 2014-10-10 09:36 | **itcareerwork** suggested 2 translations in the **DW Contacts & Phone** project
 | 2014-11-14 12:42 | **itcareerwork** suggested 4 translations in the **DW Contacts & Phone** project
 | 2014-11-29 04:13 | **itcareerwork** suggested 8 translations in the **DW Contacts & Phone** project
+| 2014-12-09 03:39 | **itcareerwork** suggested 6 translations in the **DW Contacts & Phone** project
