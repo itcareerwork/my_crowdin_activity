@@ -86,3 +86,4 @@
 | 2014-12-09 03:44 | **itcareerwork** approved 46 translations in the **DW Contacts & Phone** project
 | 2014-12-22 14:29 | **itcareerwork** suggested the translation "Настраивается темой" in the **DW Contacts & Phone** project
 | 2014-12-22 14:29 | **itcareerwork** deleted the translation "Как в теме" in the **DW Contacts & Phone** project
+| 2015-01-16 03:50 | **itcareerwork** suggested 5 translations in the **DW Contacts & Phone** project
