@@ -2,3 +2,4 @@
 ##### <https://crowdin.com/project/pirateroaming>
 ***
 | 2015-08-15 15:41 | **itcareerwork** voted for 3 translations in the **CallMe (ex Pirate Roaming)** project
+| 2015-08-15 16:23 | **itcareerwork** suggested 19 translations in the **CallMe (ex Pirate Roaming)** project
