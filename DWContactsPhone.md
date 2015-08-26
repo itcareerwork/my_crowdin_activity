@@ -91,3 +91,4 @@
 | 2015-03-31 12:29 | **itcareerwork** suggested 6 translations in the **DW Contacts & Phone** project
 | 2015-04-14 11:05 | **itcareerwork** suggested the translation "Показать журнал сообщений" in the **DW Contacts & Phone** project
 | 2015-08-15 15:03 | **itcareerwork** suggested the translation "Долгое время не связывались с" in the **DW Contacts & Phone** project
+| 2015-08-26 16:37 | **itcareerwork** disapproved the translation "Нажмите ещё раз для отображения контактов, входящих сразу в <b>несколько групп</b>" in the **DW Contacts & Phone** project
