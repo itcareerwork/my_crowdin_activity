@@ -93,3 +93,4 @@
 | 2015-08-15 15:03 | **itcareerwork** suggested the translation "Долгое время не связывались с" in the **DW Contacts & Phone** project
 | 2015-08-26 16:37 | **itcareerwork** disapproved the translation "Нажмите ещё раз для отображения контактов, входящих сразу в <b>несколько групп</b>" in the **DW Contacts & Phone** project
 | 2015-08-26 16:39 | **itcareerwork** suggested 3 translations in the **DW Contacts & Phone** project
+| 2015-08-26 16:40 | **itcareerwork** approved 2 translations in the **DW Contacts & Phone** project
