@@ -96,3 +96,4 @@
 | 2015-08-26 16:40 | **itcareerwork** approved 2 translations in the **DW Contacts & Phone** project
 | 2015-08-26 16:40 | **itcareerwork** deleted 3 translations from the **DW Contacts & Phone** project
 | 2015-10-17 10:03 | **itcareerwork** suggested the translation "Добавить в контакты" in the **DW Contacts & Phone** project
+| 2015-12-11 14:28 | **itcareerwork** suggested 5 translations in the **DW Contacts & Phone** project
