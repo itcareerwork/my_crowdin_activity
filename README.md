@@ -5,3 +5,4 @@
 * #### Autorun Manager <https://crowdin.com/project/autorun-killer> . ( [Activity file](AutorunManager.md) )
 * #### TuneWiki <https://crowdin.com/project/tunewiki> . ( [Activity file](TuneWiki.md) )
 * #### CallMe (ex Pirate Roaming) <https://crowdin.com/project/pirateroaming> . ( [Activity file](CallMeExPirateRoaming.md) )
+* #### Reddit <https://crowdin.com/project/reddit> . ( [Activity file](Reddit.md) )
