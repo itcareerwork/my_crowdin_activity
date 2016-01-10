@@ -2,3 +2,4 @@
 ##### <https://crowdin.com/project/reddit>
 ***
 | 2016-01-04 10:50 | **itcareerwork** joined the **Reddit** project
+| 2016-01-10 12:45 | **itcareerwork** voted for 7 translations in the **Reddit** project
