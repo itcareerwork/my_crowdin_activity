@@ -7,3 +7,4 @@
 * #### CallMe (ex Pirate Roaming) <https://crowdin.com/project/pirateroaming> . ( [Activity file](CallMeExPirateRoaming.md) )
 * #### Reddit <https://crowdin.com/project/reddit> . ( [Activity file](Reddit.md) )
 * #### Noinnion <https://crowdin.com/project/noinnion> . ( [Activity file](Noinnion.md) )
+* #### Minecraft <https://crowdin.com/project/minecraft> . ( [Activity file](Minecraft.md) )
