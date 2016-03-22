@@ -13,3 +13,4 @@
 | 2016-03-17 05:05 | **itcareerwork** suggested 29 translations in the **CallMe (ex Pirate Roaming)** project
 | 2016-03-17 05:06 | **itcareerwork** deleted 2 translations from the **CallMe (ex Pirate Roaming)** project
 | 2016-03-19 11:30 | **itcareerwork** suggested 4 translations in the **CallMe (ex Pirate Roaming)** project
+| 2016-03-22 13:01 | **itcareerwork** deleted the translation "Ваш баланс исчерпан! Службы вызовов и все ваши Pirate Numbers не будут работать до тех пор, пока вы не пополните!" in the **CallMe (ex Pirate Roaming)** project
