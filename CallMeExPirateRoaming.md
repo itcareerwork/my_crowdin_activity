@@ -18,3 +18,4 @@
 | 2016-03-26 14:15 | **itcareerwork** voted for 2 translations in the **CallMe (ex Pirate Roaming)** project
 | 2016-04-03 15:49 | **itcareerwork** deleted 3 translations from the **CallMe (ex Pirate Roaming)** project
 | 2016-04-03 15:49 | **itcareerwork** suggested 3 translations in the **CallMe (ex Pirate Roaming)** project
+| 2016-04-16 13:11 | **itcareerwork** voted for 11 translations in the **CallMe (ex Pirate Roaming)** project
