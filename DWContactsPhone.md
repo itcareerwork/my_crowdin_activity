@@ -99,3 +99,4 @@
 | 2015-12-11 14:28 | **itcareerwork** suggested 5 translations in the **DW Contacts & Phone** project
 | 2016-03-10 14:09 | **itcareerwork** suggested 6 translations in the **DW Contacts & Phone** project
 | 2016-04-25 12:32 | **itcareerwork** deleted the translation "Закрыть навигационную панель" in the **DW Contacts & Phone** project
+| 2016-04-25 12:34 | **itcareerwork** suggested 7 translations in the **DW Contacts & Phone** project
