@@ -102,3 +102,4 @@
 | 2016-04-25 12:34 | **itcareerwork** suggested 7 translations in the **DW Contacts & Phone** project
 | 2016-05-20 01:48 | **itcareerwork** suggested 3 translations in the **DW Contacts & Phone** project
 | 2016-05-29 14:05 | **itcareerwork** suggested the translation "Голосовая метка" in the **DW Contacts & Phone** project
+| 2016-06-13 14:11 | **itcareerwork** suggested 2 translations in the **DW Contacts & Phone** project
