@@ -21,3 +21,4 @@
 | 2016-04-16 13:11 | **itcareerwork** voted for 11 translations in the **CallMe (ex Pirate Roaming)** project
 | 2016-04-16 14:39 | **itcareerwork** deleted 6 translations from the **CallMe (ex Pirate Roaming)** project
 | 2016-04-16 14:52 | **itcareerwork** suggested 76 translations in the **CallMe (ex Pirate Roaming)** project
+| 2016-10-23 12:06 | **itcareerwork** suggested 13 translations in the **CallMe (ex Pirate Roaming)** project
