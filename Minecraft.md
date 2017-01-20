@@ -2,3 +2,4 @@
 ##### <https://crowdin.com/project/minecraft>
 ***
 | 2016-03-11 15:42 | **itcareerwork** voted for 2 translations in the **Minecraft** project
+| 2017-01-21 03:36 | **itcareerwork** voted for 5 translations in the **Minecraft** project
