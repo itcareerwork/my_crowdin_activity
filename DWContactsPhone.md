@@ -105,3 +105,4 @@
 | 2016-06-13 14:11 | **itcareerwork** suggested 2 translations in the **DW Contacts & Phone** project
 | 2016-10-23 12:18 | **itcareerwork** suggested 7 translations in the **DW Contacts & Phone** project
 | 2017-01-21 05:48 | **itcareerwork** deleted 19 translations from the **DW Contacts & Phone** project
+| 2017-01-21 05:48 | **itcareerwork** suggested 14 translations in the **DW Contacts & Phone** project
