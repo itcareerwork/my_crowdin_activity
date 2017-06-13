@@ -108,3 +108,4 @@
 | 2017-01-21 05:48 | **itcareerwork** suggested 14 translations in the **DW Contacts & Phone** project
 | 2017-01-21 05:59 | **itcareerwork** approved 500 translations in the **DW Contacts & Phone** project
 | 2017-01-21 06:01 | **itcareerwork** disapproved 9 translations in the **DW Contacts & Phone** project
+| 2017-06-13 13:01 | **itcareerwork** suggested the translation "Всплыв. меню в в виде списка" in the **DW Contacts & Phone** project
