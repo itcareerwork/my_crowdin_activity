@@ -113,3 +113,4 @@
 | 2017-06-13 13:01 | **itcareerwork** deleted the translation "Использование списка меню" in the **DW Contacts & Phone** project
 | 2018-02-14 05:07 | **itcareerwork** disapproved 3 translations in the **DW Contacts & Phone** project
 | 2018-02-14 05:10 | **itcareerwork** deleted 3 translations from the **DW Contacts & Phone** project
+| 2018-02-14 05:11 | **itcareerwork** suggested 6 translations in the **DW Contacts & Phone** project
