@@ -3,3 +3,4 @@
 ***
 | 2018-02-14 06:18 | **itcareerwork** canceled the vote "+" for the translation "Вкл/выкл блокировку всех всплывающих окон на этом сайте" in the **uBlock** project
 | 2018-02-14 06:18 | **itcareerwork** voted for 24 translations in the **uBlock** project
+| 2019-06-27 03:27 | **itcareerwork** suggested the translation "Переключить профиль блокировки" in the **uBlock** project
