@@ -10,3 +10,4 @@
 * #### Minecraft <https://crowdin.com/project/minecraft> . ( [Activity file](Minecraft.md) )
 * #### uBlock <https://crowdin.com/project/ublock> . ( [Activity file](uBlock.md) )
 * #### Tapatalk-all <https://crowdin.com/project/tapatalk-all> . ( [Activity file](TapatalkAll.md) )
+* #### Keepass2Android <https://crowdin.com/project/keepass2android> . ( [Activity file](Keepass2Android.md) )
