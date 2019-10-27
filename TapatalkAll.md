@@ -2,3 +2,4 @@
 ##### <https://crowdin.com/project/tapatalk-all>
 ***
 | 2019-10-27 16:53 | **itcareerwork** deleted 26 translations from the **Tapatalk-all** project
+| 2019-10-27 16:54 | **itcareerwork** suggested 436 translations in the **Tapatalk-all** project
