@@ -2,3 +2,4 @@
 ##### <https://crowdin.com/project/ankidroid>
 ***
 | 2019-10-29 17:11 | **itcareerwork** deleted the translation "Это неподходящий файл пакета Anki" in the **AnkiDroid** project
+| 2019-10-29 17:20 | **itcareerwork** suggested 9 translations in the **AnkiDroid** project
