@@ -12,3 +12,4 @@
 * #### Tapatalk-all <https://crowdin.com/project/tapatalk-all> . ( [Activity file](TapatalkAll.md) )
 * #### Keepass2Android <https://crowdin.com/project/keepass2android> . ( [Activity file](Keepass2Android.md) )
 * #### Adblock Plus user interface <https://crowdin.com/project/adblockplusui> . ( [Activity file](AdblockPlusUserInterface.md) )
+* #### Electron <https://crowdin.com/project/electron> . ( [Activity file](Electron.md) )
