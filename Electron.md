@@ -6,3 +6,4 @@
 | 2019-10-29 19:49 | **itcareerwork** suggested 95 translations in the **Electron** project
 | 2019-11-05 17:57 | **itcareerwork** voted for 3 translations in the **Electron** project
 | 2019-11-05 19:17 | **itcareerwork** suggested 275 translations in the **Electron** project
+| 2019-11-05 19:18 | **itcareerwork** deleted 8 translations from the **Electron** project
