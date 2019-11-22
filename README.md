@@ -14,3 +14,4 @@
 * #### Adblock Plus user interface <https://crowdin.com/project/adblockplusui> . ( [Activity file](AdblockPlusUserInterface.md) )
 * #### Electron <https://crowdin.com/project/electron> . ( [Activity file](Electron.md) )
 * #### AnkiDroid <https://crowdin.com/project/ankidroid> . ( [Activity file](AnkiDroid.md) )
+* #### Handy news reader <https://crowdin.com/project/handy-news-reader> . ( [Activity file](HandyNewsReader.md) )
