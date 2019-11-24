@@ -8,3 +8,4 @@
 | 2019-11-05 19:17 | **itcareerwork** suggested 275 translations in the **Electron** project
 | 2019-11-05 19:18 | **itcareerwork** deleted 8 translations from the **Electron** project
 | 2019-11-15 15:51 | **itcareerwork** suggested 22 translations in the **Electron** project
+| 2019-11-24 17:26 | **itcareerwork**: Comment: "The current approved translation is not correct, please review my translation: "Возвращает <code>Boolean</code> - приостановлена ли загрузка.""
