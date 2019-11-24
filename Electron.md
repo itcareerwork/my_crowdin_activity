@@ -9,3 +9,4 @@
 | 2019-11-05 19:18 | **itcareerwork** deleted 8 translations from the **Electron** project
 | 2019-11-15 15:51 | **itcareerwork** suggested 22 translations in the **Electron** project
 | 2019-11-24 17:26 | **itcareerwork**: Comment: "The current approved translation is not correct, please review my translation: "Возвращает <code>Boolean</code> - приостановлена ли загрузка.""
+| 2019-11-24 17:26 | **itcareerwork** commented on the source string "Returns <code>Boolean</code> - Whether the download is paused." in the **Electron** project.
