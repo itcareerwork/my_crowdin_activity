@@ -4,3 +4,4 @@
 | 2019-11-22 15:55 | **itcareerwork** deleted 2 translations from the **Handy news reader** project
 | 2019-11-22 16:15 | **itcareerwork** voted for 20 translations in the **Handy news reader** project
 | 2019-11-22 17:10 | **itcareerwork** suggested 77 translations in the **Handy news reader** project
+| 2019-11-27 08:30 | **itcareerwork** suggested 2 translations in the **Handy news reader** project
