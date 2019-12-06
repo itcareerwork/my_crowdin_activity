@@ -27,3 +27,4 @@
 | 2019-12-04 16:11 | **itcareerwork** suggested 137 translations in the **Electron** project
 | 2019-12-06 13:47 | **itcareerwork** voted for 4 translations in the **Electron** project
 | 2019-12-06 13:48 | **itcareerwork**: Comment: "The current approved translation is not correct, please review my translation: "Создание уведомлений на рабочем столе ОС""
+| 2019-12-06 13:48 | **itcareerwork** created an issue for the string "Create OS desktop notifications" in the **Electron** project.
