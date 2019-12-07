@@ -31,3 +31,4 @@
 | 2019-12-06 14:10 | **itcareerwork** suggested 20 translations in the **Electron** project
 | 2019-12-07 17:17 | **itcareerwork** voted for 43 translations in the **Electron** project
 | 2019-12-07 17:24 | **itcareerwork** created 122 issues in the **Electron** project
+| 2019-12-07 17:36 | **itcareerwork** deleted 41 translations from the **Electron** project
