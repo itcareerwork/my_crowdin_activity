@@ -41,3 +41,4 @@
 | 2019-12-09 14:36 | **itcareerwork** deleted 30 translations from the **Electron** project
 | 2019-12-09 14:46 | **itcareerwork** suggested 142 translations in the **Electron** project
 | 2019-12-09 14:46 | **itcareerwork** created 42 issues in the **Electron** project
+| 2019-12-16 16:15 | **itcareerwork** voted "-" for the translation "тип" in the **Electron** project
