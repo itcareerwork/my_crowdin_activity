@@ -9,3 +9,4 @@
 | 2019-10-29 08:51 | **itcareerwork** suggested 4 translations in the **Tapatalk-all** project
 | 2019-11-15 13:26 | **itcareerwork** suggested the translation "Присоединяйтесь к Tapatalk VIP, чтобы иметь возможность загружать большие GIF и использовать многие другие функции." in the **Tapatalk-all** project
 | 2019-11-15 13:39 | **itcareerwork** voted "+" for the translation "Переключиться на приложение для мобильных устройств" in the **Tapatalk-all** project
+| 2019-12-17 14:26 | **itcareerwork** suggested 12 translations in the **Tapatalk-all** project
