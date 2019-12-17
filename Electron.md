@@ -45,3 +45,4 @@
 | 2019-12-16 16:34 | **itcareerwork** created 8 issues in the **Electron** project
 | 2019-12-16 17:09 | **itcareerwork** deleted 6 translations from the **Electron** project
 | 2019-12-16 17:09 | **itcareerwork** suggested 19 translations in the **Electron** project
+| 2019-12-17 14:37 | **itcareerwork** deleted the translation "mas - Является ли сборкой Mac App Store" in the **Electron** project
