@@ -7,3 +7,4 @@
 | 2019-11-27 08:30 | **itcareerwork** suggested 2 translations in the **Handy news reader** project
 | 2019-11-30 06:38 | **itcareerwork** suggested 2 translations in the **Handy news reader** project
 | 2019-12-09 03:55 | **itcareerwork** suggested the translation "Закрыть" in the **Handy news reader** project
+| 2019-12-22 05:00 | **itcareerwork** suggested 2 translations in the **Handy news reader** project
