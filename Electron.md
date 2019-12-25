@@ -55,3 +55,4 @@
 | 2019-12-22 15:23 | **itcareerwork** created 14 issues in the **Electron** project
 | 2019-12-22 15:39 | **itcareerwork** deleted 16 translations from the **Electron** project
 | 2019-12-22 15:39 | **itcareerwork** suggested 213 translations in the **Electron** project
+| 2019-12-25 06:57 | **itcareerwork**: Comment: "The current approved translation is not correct, please review my translation: "Пример создания окна, который заполняет весь экран:""
