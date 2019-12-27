@@ -67,3 +67,4 @@
 | 2019-12-27 07:53 | **itcareerwork**: Comment: "The current approved translation is not correct, please review my translation: "Ошибка в движке V8 может позволить вредоносному коду получить доступ к API предварительной загрузки рендерера, фактически предоставляя полный доступ к системе через модуль <code>remote</code>.""
 | 2019-12-27 07:53 | **itcareerwork** created an issue for the string "Some bug in V8 engine may allow malicious code to access the renderer preload APIs, effectively granting full access to the system through the <code>remote</code> module." in the **Electron** project.
 | 2019-12-27 07:53 | **itcareerwork** resolved 4 issues in the **Electron** project
+| 2019-12-27 08:22 | **itcareerwork** suggested 8 translations in the **Electron** project
