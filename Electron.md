@@ -63,3 +63,4 @@
 | 2019-12-25 14:52 | **itcareerwork** deleted 10 translations from the **Electron** project
 | 2019-12-25 14:52 | **itcareerwork** suggested 191 translations in the **Electron** project
 | 2019-12-27 07:52 | **itcareerwork** deleted 13 issues from the **Electron** project
+| 2019-12-27 07:53 | **itcareerwork** deleted the translation "Ошибка в движке V8 может позволить вредоносному коду получить доступ к API предварительной загрузке рендерера, фактически предоставляя полный доступ к системе через модуль <code>remote</code>." in the **Electron** project
