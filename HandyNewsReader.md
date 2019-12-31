@@ -9,3 +9,4 @@
 | 2019-12-09 03:55 | **itcareerwork** suggested the translation "Закрыть" in the **Handy news reader** project
 | 2019-12-22 05:00 | **itcareerwork** suggested 2 translations in the **Handy news reader** project
 | 2019-12-25 02:52 | **itcareerwork** suggested 2 translations in the **Handy news reader** project
+| 2020-01-01 00:52 | **itcareerwork** suggested the translation "Загрузка изображений статей" in the **Handy news reader** project
