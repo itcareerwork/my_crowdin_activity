@@ -118,3 +118,4 @@
 | 2019-11-24 15:15 | **itcareerwork** deleted 6 translations from the **DW Contacts & Phone** project
 | 2019-11-24 15:15 | **itcareerwork** suggested 24 translations in the **DW Contacts & Phone** project
 | 2019-11-24 15:15 | **itcareerwork** approved 25 translations in the **DW Contacts & Phone** project
+| 2020-04-21 05:36 | **itcareerwork** deleted 2 translations from the **DW Contacts & Phone** project
