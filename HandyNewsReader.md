@@ -11,3 +11,4 @@
 | 2019-12-25 02:52 | **itcareerwork** suggested 2 translations in the **Handy news reader** project
 | 2020-01-01 00:52 | **itcareerwork** suggested the translation "Загрузка изображений статей" in the **Handy news reader** project
 | 2020-04-21 04:51 | **itcareerwork** suggested 10 translations in the **Handy news reader** project
+| 2020-07-27 01:40 | **itcareerwork** suggested 40 translations in the **Handy news reader** project
