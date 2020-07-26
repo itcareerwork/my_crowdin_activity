@@ -6,3 +6,4 @@
 | 2020-04-13 07:16 | **itcareerwork** deleted the translation "Добавить запись" in the **AnkiDroid** project
 | 2020-04-13 07:53 | **itcareerwork** suggested 16 translations in the **AnkiDroid** project
 | 2020-04-21 05:59 | **itcareerwork** suggested 9 translations in the **AnkiDroid** project
+| 2020-07-27 02:13 | **itcareerwork** suggested 2 translations in the **AnkiDroid** project
