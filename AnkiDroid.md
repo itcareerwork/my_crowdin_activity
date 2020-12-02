@@ -8,3 +8,4 @@
 <br>| 2020-04-21 05:59 | **itcareerwork** suggested 9 translations in the **AnkiDroid** project
 <br>| 2020-07-27 02:13 | **itcareerwork** suggested 2 translations in the **AnkiDroid** project
 <br>| 2020-10-17 05:48 | **itcareerwork** suggested 20 translations in the **AnkiDroid** project
+<br>| 2020-12-03 04:45 | **itcareerwork** deleted 5 translations from the **AnkiDroid** project
