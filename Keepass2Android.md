@@ -8,3 +8,4 @@
 <br>| 2020-12-03 05:37 | **itcareerwork** suggested 4 translations in the **Keepass2Android** project
 <br>| 2020-12-03 05:55 | **itcareerwork** canceled the vote "+" for the translation "Логин" in the **Keepass2Android** project
 <br>| 2020-12-03 05:55 | **itcareerwork** voted for 5 translations in the **Keepass2Android** project
+<br>| 2020-12-03 05:58 | **itcareerwork** Comment: ""Логин" - is the correct translation."
