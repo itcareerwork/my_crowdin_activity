@@ -10,3 +10,4 @@
 <br>| 2020-10-17 05:48 | **itcareerwork** suggested 20 translations in the **AnkiDroid** project
 <br>| 2020-12-03 04:45 | **itcareerwork** deleted 5 translations from the **AnkiDroid** project
 <br>| 2020-12-03 06:51 | **itcareerwork** suggested 81 translations in the **AnkiDroid** project
+<br>| 2020-12-05 17:39 | **itcareerwork** suggested 4 translations in the **AnkiDroid** project
