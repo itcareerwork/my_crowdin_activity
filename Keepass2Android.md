@@ -10,3 +10,4 @@
 <br>| 2020-12-03 05:55 | **itcareerwork** voted for 5 translations in the **Keepass2Android** project
 <br>| 2020-12-03 05:58 | **itcareerwork** Comment: ""Логин" - is the correct translation."
 <br>| 2020-12-03 05:58 | **itcareerwork** created an issue for the string "User" in the **Keepass2Android** project
+<br>| 2020-12-16 06:51 | **itcareerwork** voted "-" for the translation "Держать кешь базы данных на устройстве. Что бы использовать её без интернета." in the **Keepass2Android** project
