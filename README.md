@@ -15,3 +15,4 @@
 * #### Electron <https://crowdin.com/project/electron> . ( [Activity file](Electron.md) )
 * #### AnkiDroid <https://crowdin.com/project/ankidroid> . ( [Activity file](AnkiDroid.md) )
 * #### Handy news reader <https://crowdin.com/project/handy-news-reader> . ( [Activity file](HandyNewsReader.md) )
+* #### Session iOS <https://crowdin.com/project/session-ios> . ( [Activity file](SessionIOS.md) )
