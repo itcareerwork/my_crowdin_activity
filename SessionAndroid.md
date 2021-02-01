@@ -2,3 +2,4 @@
 ##### <https://crowdin.com/project/session-android>
 ***
 <br>| 2021-01-27 12:53 | **itcareerwork** suggested 53 translations in the **Session Android** project
+<br>| 2021-02-02 03:59 | **itcareerwork** suggested 26 translations in the **Session Android** project
