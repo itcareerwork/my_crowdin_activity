@@ -17,3 +17,4 @@
 * #### Handy news reader <https://crowdin.com/project/handy-news-reader> . ( [Activity file](HandyNewsReader.md) )
 * #### Session iOS <https://crowdin.com/project/session-ios> . ( [Activity file](SessionIOS.md) )
 * #### Session Android <https://crowdin.com/project/session-android> . ( [Activity file](SessionAndroid.md) )
+* #### adblockbrowser.org web content <https://crowdin.com/project/webadblockbrowserorg> . ( [Activity file](adblockbrowserOrgWebContent.md) )
