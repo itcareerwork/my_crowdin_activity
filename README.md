@@ -19,3 +19,4 @@
 * #### Session Android <https://crowdin.com/project/session-android> . ( [Activity file](SessionAndroid.md) )
 * #### adblockbrowser.org web content <https://crowdin.com/project/webadblockbrowserorg> . ( [Activity file](adblockbrowserOrgWebContent.md) )
 * #### adblockplus.org web content <https://crowdin.com/project/webadblockplusorg> . ( [Activity file](adblockplusOrgWebContent.md) )
+* #### JavaScript Deobfuscator <https://crowdin.com/project/jsdeobfuscator> . ( [Activity file](JavaScriptDeobfuscator.md) )
