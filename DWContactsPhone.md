@@ -122,3 +122,4 @@
 <br>| 2020-04-21 05:37 | **itcareerwork** approved the translation "Не удалось" in the **DW Contacts & Phone** project
 <br>| 2020-04-21 05:39 | **itcareerwork** suggested 10 translations in the **DW Contacts & Phone** project
 <br>| 2020-07-27 02:08 | **itcareerwork** suggested 3 translations in the **DW Contacts & Phone** project
+<br>| 2021-03-17 11:30 | **itcareerwork** approved 11 translations in the **DW Contacts & Phone** project
