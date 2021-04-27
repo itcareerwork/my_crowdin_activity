@@ -15,3 +15,4 @@
 <br>| 2020-12-16 09:07 | **itcareerwork** suggested 3 translations in the **AnkiDroid** project
 <br>| 2021-02-26 04:53 | **itcareerwork** suggested 11 translations in the **AnkiDroid** project
 <br>| 2021-03-17 11:27 | **itcareerwork** suggested 3 translations in the **AnkiDroid** project
+<br>| 2021-04-27 05:34 | **itcareerwork** suggested 6 translations in the **AnkiDroid** project
