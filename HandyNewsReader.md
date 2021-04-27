@@ -13,3 +13,4 @@
 <br>| 2020-04-21 04:51 | **itcareerwork** suggested 10 translations in the **Handy news reader** project
 <br>| 2020-07-27 01:40 | **itcareerwork** suggested 40 translations in the **Handy news reader** project
 <br>| 2020-12-03 05:31 | **itcareerwork** suggested 2 translations in the **Handy news reader** project
+<br>| 2021-04-27 05:16 | **itcareerwork** suggested 6 translations in the **Handy news reader** project
