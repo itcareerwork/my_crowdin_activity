@@ -3,3 +3,4 @@
 ***
 <br>| 2021-03-17 11:58 | **itcareerwork** suggested 3 translations in the **JavaScript Deobfuscator** project
 <br>| 2021-04-27 05:05 | **itcareerwork** deleted the translation "top-level" in the **JavaScript Deobfuscator** project
+<br>| 2021-04-27 05:06 | **itcareerwork** suggested 4 translations in the **JavaScript Deobfuscator** project
